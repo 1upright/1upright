@@ -37,5 +37,3 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 ![1upright's GitHub stats](https://github-readme-stats.vercel.app/api?username=1upright&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1upright&layout=demo&theme=tokyonight)
